@@ -16,9 +16,12 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" />
-</div>
+## 🎯 2024 Goals
+- [ ] Contribute to 10+ open source projects
+- [ ] Master AWS Certified Solutions Architect
+- [ ] Build an AI startup prototype
+- [ ] Learn Rust for systems programming
+- [ ] Mentor 5 beginner developers
 
 ## 🌟 About Me
 ```python
@@ -101,12 +104,6 @@ print(me.motivate())
 
 ---
 
-## 🎯 2024 Goals
-- [ ] Contribute to 10+ open source projects
-- [ ] Master AWS Certified Solutions Architect
-- [ ] Build an AI startup prototype
-- [ ] Learn Rust for systems programming
-- [ ] Mentor 5 beginner developers
 
 ---
 
