@@ -16,7 +16,7 @@
 
 ---
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 - [ ] Contribute to 10+ open source projects
 - [ ] Master AWS Certified Solutions Architect
 - [ ] Build an AI startup prototype
