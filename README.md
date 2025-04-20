@@ -89,10 +89,10 @@ print(me.motivate())
 
 ## 🚀 Featured Projects
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush4532&repo=let-s-draw&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush4532&repo=Trimrr&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush4532&repo=CareerStory&theme=radical" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush4532&repo=FocusHub&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush4532&repo=project2&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush4532&repo=project3&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayush4532&repo=project4&theme=radical" width="45%" />
 </div>
 
 ---
