@@ -54,27 +54,24 @@ print(me.code())
 
 ## 🛠️ Tech Stack
 
-<div align="center"> 
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,rust,go,swift" /><br><br> 
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass,vue,angular" /><br><br> 
-  <img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,express,flask,spring" /><br><br> 
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite" /><br><br> 
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,terraform" /><br><br> 
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,numpy,pandas,matplotlib" /><br><br> 
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma" /> 
-</div>
+| Languages              | Frontend                     | Backend                         | Databases                   | DevOps & Tools                      | ML & Data Science         |
+|------------------------|------------------------------|---------------------------------|-----------------------------|--------------------------------------|---------------------------|
+| Python, JavaScript, C++, Java, Rust, Go | React · Next.js · Vue.js · Tailwind CSS | Node.js · Django · FastAPI · Express | PostgreSQL · MongoDB · Redis · SQLite | Docker · Kubernetes · AWS · GitHub Actions · Terraform | TensorFlow · PyTorch · OpenCV · Pandas · NumPy |
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
-<div align="center"> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayush4532&theme=github_dark" width="90%" /> 
-  <br/> 
-  <img src="https://github-readme-stats.vercel.app/api?username=aayush4532&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="49%" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush4532&theme=radical&fire=FF7F11&currStreakNum=00F0FF" width="49%" /> 
-  <br/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush4532&theme=radical&layout=compact&langs_count=10" width="49%" /> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayush4532&theme=react-dark&hide_border=true&area=true" width="98%" /> 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayush4532&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush4532&hide_border=true&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush4532&layout=compact&hide_border=true&langs_count=6&theme=radical" alt="Top Languages" />
+</p>
+
 ```
