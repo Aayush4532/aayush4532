@@ -54,24 +54,46 @@ print(me.code())
 
 ## 🛠️ Tech Stack
 
-| Languages              | Frontend                     | Backend                         | Databases                   | DevOps & Tools                      | ML & Data Science         |
-|------------------------|------------------------------|---------------------------------|-----------------------------|--------------------------------------|---------------------------|
-| Python, JavaScript, C++, Java, Rust, Go | React · Next.js · Vue.js · Tailwind CSS | Node.js · Django · FastAPI · Express | PostgreSQL · MongoDB · Redis · SQLite | Docker · Kubernetes · AWS · GitHub Actions · Terraform | TensorFlow · PyTorch · OpenCV · Pandas · NumPy |
+<p align="center">
+  <!-- Core Languages -->
+  <img src="https://skillicons.dev/icons?i=python,js,ts,go,java,cpp,rust" height="50" alt="Languages" />
+</p>
+<p align="center">
+  <!-- Frontend Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind" height="50" alt="Frontend" />
+</p>
+<p align="center">
+  <!-- Backend & APIs -->
+  <img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,express,spring" height="50" alt="Backend" />
+</p>
+<p align="center">
+  <!-- Databases & Caching -->
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,mysql" height="50" alt="Databases" />
+</p>
+<p align="center">
+  <!-- DevOps & Infrastructure -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,terraform,githubactions" height="50" alt="DevOps" />
+</p>
+<p align="center">
+  <!-- ML & Data Science -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy,matplotlib" height="50" alt="ML & DS" />
+</p>
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayush4532&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayush4532&show_icons=true&hide_border=true&theme=dark&count_private=true&layout=compact" alt="GitHub Stats" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush4532&hide_border=true&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush4532&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush4532&layout=compact&hide_border=true&langs_count=6&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush4532&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+</div>
+
 
 ```
