@@ -55,45 +55,61 @@ print(me.code())
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <!-- Core Languages -->
-  <img src="https://skillicons.dev/icons?i=python,js,ts,go,java,cpp,rust" height="50" alt="Languages" />
-</p>
-<p align="center">
-  <!-- Frontend Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind" height="50" alt="Frontend" />
-</p>
-<p align="center">
-  <!-- Backend & APIs -->
-  <img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,express,spring" height="50" alt="Backend" />
-</p>
-<p align="center">
-  <!-- Databases & Caching -->
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,mysql" height="50" alt="Databases" />
-</p>
-<p align="center">
-  <!-- DevOps & Infrastructure -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,terraform,githubactions" height="50" alt="DevOps" />
-</p>
-<p align="center">
-  <!-- ML & Data Science -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy,matplotlib" height="50" alt="ML & DS" />
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=go" height="50" alt="Go"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=java" height="50" alt="Java"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=rust" height="50" alt="Rust"/></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=react" height="50" alt="React"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=vue" height="50" alt="Vue.js"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=angular" height="50" alt="Angular"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS"/></td>
+      <td></td><td></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=django" height="50" alt="Django"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="FastAPI"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=spring" height="50" alt="Spring"/></td>
+      <td></td><td></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=redis" height="50" alt="Redis"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="SQLite"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL"/></td>
+      <td></td><td></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="Kubernetes"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=gcp" height="50" alt="GCP"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=azure" height="50" alt="Azure"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=terraform" height="50" alt="Terraform"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="GitHub Actions"/></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=opencv" height="50" alt="OpenCV"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=pandas" height="50" alt="Pandas"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=numpy" height="50" alt="NumPy"/></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=matplotlib" height="50" alt="Matplotlib"/></td>
+      <td></td>
+    </tr>
+  </table>
 </p>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayush4532&show_icons=true&hide_border=true&theme=dark&count_private=true&layout=compact" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush4532&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush4532&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
 
 
 ```
