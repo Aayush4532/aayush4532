@@ -54,86 +54,87 @@ print(me.code())
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=python" height="60" alt="Python"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=go" height="60" alt="Go"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=java" height="60" alt="Java"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=rust" height="60" alt="Rust"/></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=react" height="60" alt="React"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=vue" height="60" alt="Vue.js"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=angular" height="60" alt="Angular"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=sass" height="60" alt="Sass"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL"/></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=django" height="60" alt="Django"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="FastAPI"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=spring" height="60" alt="Spring"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=flask" height="60" alt="Flask"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS"/></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=redis" height="60" alt="Redis"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="SQLite"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=firebase" height="60" alt="Firebase"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=neo4j" height="60" alt="Neo4j"/></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="Kubernetes"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=gcp" height="60" alt="GCP"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=azure" height="60" alt="Azure"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=terraform" height="60" alt="Terraform"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="GitHub Actions"/></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="TensorFlow"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="PyTorch"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=opencv" height="60" alt="OpenCV"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=pandas" height="60" alt="Pandas"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=numpy" height="60" alt="NumPy"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" height="60" alt="Scikit-Learn"/></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=matplotlib" height="60" alt="Matplotlib"/></td>
-    </tr>
-  </table>
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" height="60" alt="Python"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=go" height="60" alt="Go"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" height="60" alt="Java"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=rust" height="60" alt="Rust"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="60" alt="React"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vue" height="60" alt="Vue.js"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=angular" height="60" alt="Angular"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sass" height="60" alt="Sass"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" height="60" alt="Django"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="FastAPI"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=spring" height="60" alt="Spring"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flask" height="60" alt="Flask"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" height="60" alt="Redis"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="SQLite"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" height="60" alt="Firebase"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=neo4j" height="60" alt="Neo4j"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="Kubernetes"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" height="60" alt="GCP"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=azure" height="60" alt="Azure"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=terraform" height="60" alt="Terraform"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="GitHub Actions"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="TensorFlow"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="PyTorch"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=opencv" height="60" alt="OpenCV"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pandas" height="60" alt="Pandas"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=numpy" height="60" alt="NumPy"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" height="60" alt="Scikit-Learn"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=matplotlib" height="60" alt="Matplotlib"/></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api?username=aayush4532&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="33%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush4532&hide_border=true&theme=dark" alt="GitHub Streak" />
-      </td>
-      <td align="center" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush4532&layout=compact&hide_border=true&langs_count=6&theme=dark" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</p>
+<div align="center">
 
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api?username=aayush4532&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush4532&layout=compact&hide_border=true&langs_count=6&theme=dark" alt="Top Languages" />
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush4532&theme=dark&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-
+</div>
 
 ```
