@@ -1,4 +1,3 @@
-```md
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Karamjeet+Sony+%E2%9C%A8;%F0%9F%92%BB+Full-Stack+Dev+%7C+ML+Engineer;%F0%9F%8E%93+DTU+CSE'27+%7C+India;%F0%9F%9A%80+Building+Tomorrow's+Tech+Today" alt="Typing Header" />
 </h1>
@@ -25,11 +24,11 @@
 - [ ] Learn Rust for system programming  
 - [ ] Mentor beginner developers in tech  
 
----
+
 
 ## 👨‍💻 About Me
 
-```python
+```
 class Developer:
     def __init__(self):
         self.name = "Karamjeet Sony"
