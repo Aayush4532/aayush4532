@@ -73,9 +73,9 @@ Docker · Kubernetes · AWS · Terraform · GitHub Actions
     referrerpolicy="no-referrer"
   />
 </p>
----
 
 If you’re working on backend-heavy systems, infrastructure, or distributed architectures, I’m always open to thoughtful discussions.
+
 
 
 
