@@ -19,7 +19,7 @@ Backend-focused engineer interested in **distributed systems, microservices, and
 
 * **B.Tech CSE**, Delhi Technological University (2023–2027)
 * Based in New Delhi, India
-* Current focus: Go, system design, internals of distributed infrastructure
+* Current focus: Go, system design, Distributed Systems
 
 ---
 
@@ -80,4 +80,5 @@ Docker · Kubernetes · AWS · Terraform · GitHub Actions
 ---
 
 If you’re working on backend-heavy systems, infrastructure, or distributed architectures, I’m always open to thoughtful discussions.
+
 
