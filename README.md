@@ -1,147 +1,96 @@
-<p>
-  
-    तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया।
-    उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः॥
-    तत् अहम् अस्मि — सदा जिज्ञासुः, नित्यं साधकः।
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Karamjeet+Sony+%E2%9C%A8;%F0%9F%92%BB+Full-Stack+Dev;%F0%9F%8E%93+DTU+CSE'27;%F0%9F%9A%80+Building+Impactfuls's+Tech" alt="Typing Header" />
-</h1>
+# Karamjeet Sony
 
 <p align="center">
-  <a href="https://linkedin.com/in/Karamjeet_Sony"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Aayushtarr"><img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://github.com/aayush4532"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:karamjeetsony8449@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1200&color=0AA5FF&center=true&vCenter=true&width=720&lines=Backend+Engineer;Go+%7C+Distributed+Systems;Microservices+at+Scale;DTU+CSE+%2727" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aayush4532&label=Profile+Views&color=00F0FF&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/aayush4532?label=Followers&style=social" />
+  <a href="https://linkedin.com/in/Karamjeet_Sony">LinkedIn</a> ·
+  <a href="https://github.com/aayush4532">GitHub</a> ·
+  <a href="https://leetcode.com/u/Aayushtarr">LeetCode</a> ·
+  <a href="mailto:karamjeetsony8449@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🎯 2025 Goals
+## About
 
-- [ ] Contribute to 10+ impactful open-source projects  
-- [ ] Build & launch an AI SaaS prototype  
-- [ ] Become AWS Certified Solutions Architect  
-- [ ] Learn Rust for system programming  
-- [ ] Mentor beginner developers in tech  
+Backend-focused engineer interested in **distributed systems, microservices, and high-performance backend architectures**. I care about correctness, scalability, and building systems that survive real-world traffic.
 
-
-
-## 👨‍💻 About Me
-
-```
-class Developer:
-    def __init__(self):
-        self.name = "Karamjeet Sony"
-        self.role = "Full-Stack Developer | ML Engineer"
-        self.education = "B.Tech CSE @ DTU (2023-2027)"
-        self.location = "New Delhi, India 🇮🇳"
-        self.skills = {
-            'frontend': ['React', 'Next.js', 'Tailwind CSS'],
-            'backend': ['Node.js', 'Django', 'FastAPI'],
-            'database': ['PostgreSQL', 'MongoDB', 'Redis'],
-            'devops': ['Docker', 'AWS', 'GitHub Actions'],
-            'ml': ['TensorFlow', 'PyTorch', 'OpenCV']
-        }
-
-    def code(self):
-        return "Turning ideas into impact through code 🔥"
-
-me = Developer()
-print(me.code())
-```
+* **B.Tech CSE**, Delhi Technological University (2023–2027)
+* Based in New Delhi, India
+* Current focus: Go, system design, internals of distributed infrastructure
 
 ---
 
-## 🛠️ Tech Stack
+## 2026 Focus
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" height="60" alt="Python"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=go" height="60" alt="Go"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" height="60" alt="Java"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=rust" height="60" alt="Rust"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" height="60" alt="React"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vue" height="60" alt="Vue.js"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=angular" height="60" alt="Angular"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=sass" height="60" alt="Sass"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=django" height="60" alt="Django"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="FastAPI"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=spring" height="60" alt="Spring"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=flask" height="60" alt="Flask"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redis" height="60" alt="Redis"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="SQLite"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" height="60" alt="Firebase"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=neo4j" height="60" alt="Neo4j"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="Kubernetes"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" height="60" alt="GCP"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=azure" height="60" alt="Azure"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=terraform" height="60" alt="Terraform"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="GitHub Actions"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="TensorFlow"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="PyTorch"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=opencv" height="60" alt="OpenCV"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pandas" height="60" alt="Pandas"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=numpy" height="60" alt="NumPy"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=scikitlearn" height="60" alt="Scikit-Learn"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=matplotlib" height="60" alt="Matplotlib"/></td>
-  </tr>
-</table>
-
-</div>
+* Build production-grade **microservice architectures**
+* Deepen expertise in **Go for distributed systems**
+* Design and implement **fault-tolerant backend systems**
+* Contribute to infrastructure-focused open source
+* Prepare for backend / systems engineering roles
 
 ---
 
-## 📊 GitHub Analytics
+## Core Skills
 
-<div align="center">
+### Languages
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api?username=aayush4532&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush4532&layout=compact&hide_border=true&langs_count=6&theme=dark" alt="Top Languages" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush4532&theme=dark&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+Go · Python · C++ · JavaScript · TypeScript
 
-</div>
+### Backend & Microservices
 
-```
+Go (net/http, gRPC) · REST APIs · gRPC · Message Queues · Service Discovery
+
+### Distributed Systems Concepts
+
+Consistency Models · Caching · Load Balancing · Rate Limiting · Fault Tolerance · Observability
+
+### Datastores
+
+PostgreSQL · Redis · MongoDB · MySQL
+
+### DevOps & Infra
+
+Docker · Kubernetes · AWS · Terraform · GitHub Actions
+
+---
+
+## Selected Work (WIP → 2026)
+
+* **Distributed Load Balancer (Go)**
+  Pluggable algorithms, health checks, adaptive routing, observability-first design.
+
+* **Microservices Starter Kit**
+  Auth, API Gateway, service-to-service communication, config management, and CI/CD.
+
+* **In-Memory Systems**
+  LRU cache, TTL-based eviction, concurrency-safe primitives implemented from scratch.
+
+---
+
+## Engineering Philosophy
+
+* Prefer simple systems that scale over complex systems that impress
+* Understand trade-offs before choosing tools
+* Build things close to the metal when learning
+
+> "Strong systems come from clear thinking, not excessive abstractions."
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayush4532&show_icons=true&hide_border=true&theme=dark" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush4532&layout=compact&hide_border=true&theme=dark" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush4532&theme=dark&hide_border=true" />
+</p>
+
+---
+
+If you’re working on backend-heavy systems, infrastructure, or distributed architectures, I’m always open to thoughtful discussions.
