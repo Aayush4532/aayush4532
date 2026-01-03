@@ -54,20 +54,6 @@ PostgreSQL · Redis · MongoDB · MySQL
 ### DevOps & Infra
 
 Docker · Kubernetes · AWS · Terraform · GitHub Actions
-
----
-
-## Selected Work (WIP → 2026)
-
-* **Distributed Load Balancer (Go)**
-  Pluggable algorithms, health checks, adaptive routing, observability-first design.
-
-* **Microservices Starter Kit**
-  Auth, API Gateway, service-to-service communication, config management, and CI/CD.
-
-* **In-Memory Systems**
-  LRU cache, TTL-based eviction, concurrency-safe primitives implemented from scratch.
-
 ---
 
 ## Engineering Philosophy
@@ -94,3 +80,4 @@ Docker · Kubernetes · AWS · Terraform · GitHub Actions
 ---
 
 If you’re working on backend-heavy systems, infrastructure, or distributed architectures, I’m always open to thoughtful discussions.
+
