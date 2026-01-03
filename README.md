@@ -69,16 +69,29 @@ Docker · Kubernetes · AWS · Terraform · GitHub Actions
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayush4532&show_icons=true&hide_border=true&theme=dark" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush4532&layout=compact&hide_border=true&theme=dark" height="160" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aayush4532&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush4532&theme=dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush4532&layout=compact&langs_count=6&hide_border=true&theme=dark"
+    height="165"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=aayush4532&hide_border=true&theme=dark"
+  />
+</p>
+
 
 ---
 
 If you’re working on backend-heavy systems, infrastructure, or distributed architectures, I’m always open to thoughtful discussions.
+
 
 
